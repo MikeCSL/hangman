@@ -1,0 +1,33 @@
+body {
+    padding:50px;
+}
+
+h1 {
+    font-family: arial;
+    text-align: center;
+    padding-bottom: 30px;
+}
+h3{
+    font-family: arial;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+section {
+    float: left;
+}
+
+
+.letra {
+    cursor: pointer;
+}
+
+.letra-correcta {
+    color: green;
+}
+
+.letra-incorrecta{
+    color: red;
+}
+
+
